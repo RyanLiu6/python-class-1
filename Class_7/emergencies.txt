@@ -1,0 +1,10 @@
+received 1 10 medical
+received 2 5 traffic
+received 3 15 crime
+statistics
+remove 2
+statistics
+show
+received 4 20 crime
+statistics
+modify 4 30
